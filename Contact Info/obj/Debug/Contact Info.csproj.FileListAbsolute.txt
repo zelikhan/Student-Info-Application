@@ -1,0 +1,11 @@
+D:\University Work\Visual Porgramming\Lab Tasks\PRACTICE\Contact Info\Contact Info\bin\Debug\Contact Info.exe.config
+D:\University Work\Visual Porgramming\Lab Tasks\PRACTICE\Contact Info\Contact Info\bin\Debug\Contact Info.exe
+D:\University Work\Visual Porgramming\Lab Tasks\PRACTICE\Contact Info\Contact Info\bin\Debug\Contact Info.pdb
+D:\University Work\Visual Porgramming\Lab Tasks\PRACTICE\Contact Info\Contact Info\obj\Debug\Contact Info.csproj.AssemblyReference.cache
+D:\University Work\Visual Porgramming\Lab Tasks\PRACTICE\Contact Info\Contact Info\obj\Debug\Contact Info.csproj.SuggestedBindingRedirects.cache
+D:\University Work\Visual Porgramming\Lab Tasks\PRACTICE\Contact Info\Contact Info\obj\Debug\Contact_Info.Form1.resources
+D:\University Work\Visual Porgramming\Lab Tasks\PRACTICE\Contact Info\Contact Info\obj\Debug\Contact_Info.Properties.Resources.resources
+D:\University Work\Visual Porgramming\Lab Tasks\PRACTICE\Contact Info\Contact Info\obj\Debug\Contact Info.csproj.GenerateResource.cache
+D:\University Work\Visual Porgramming\Lab Tasks\PRACTICE\Contact Info\Contact Info\obj\Debug\Contact Info.csproj.CoreCompileInputs.cache
+D:\University Work\Visual Porgramming\Lab Tasks\PRACTICE\Contact Info\Contact Info\obj\Debug\Contact Info.exe
+D:\University Work\Visual Porgramming\Lab Tasks\PRACTICE\Contact Info\Contact Info\obj\Debug\Contact Info.pdb
